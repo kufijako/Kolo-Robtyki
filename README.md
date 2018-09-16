@@ -1,5 +1,5 @@
 # KASPRO SKYNET
-> Website website of robotics classes
+> Website of robotics classes
 
 
 ## General info
